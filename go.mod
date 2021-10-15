@@ -24,3 +24,5 @@ require (
 )
 
 replace github.com/gogo/protobuf => github.com/gogo/protobuf v1.3.2
+
+replace github.com/k8snetworkplumbingwg/network-attachment-definition-client => github.com/pradipd/network-attachment-definition-client v1.3.0
