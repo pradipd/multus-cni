@@ -234,6 +234,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/pradipd/network-attachment-definition-client v1.3.0 h1:oOGo+Dg38qObHd5RKjZZVrkFC/H3JQOf/wi69y85Gcs=
 github.com/pradipd/network-attachment-definition-client v1.3.0/go.mod h1:+1DpV8uIwteAhxNO0lgRox8gHkTG6w3OeDfAlg+qqjA=
+github.com/pradipd/network-attachment-definition-client v1.3.4 h1:+UnjSR3t2OmnC6AK/Oho7mO+vMwtev7Aah+mGtIn9Ao=
+github.com/pradipd/network-attachment-definition-client v1.3.4/go.mod h1:+1DpV8uIwteAhxNO0lgRox8gHkTG6w3OeDfAlg+qqjA=
 github.com/safchain/ethtool v0.0.0-20190326074333-42ed695e3de8 h1:2c1EFnZHIPCW8qKWgHMH/fX2PkSabFc5mrVzfUNdg5U=
 github.com/safchain/ethtool v0.0.0-20190326074333-42ed695e3de8/go.mod h1:Z0q5wiBQGYcxhMZ6gUqHn6pYNLypFAvaL3UvgZLR0U4=
 github.com/sclevine/agouti v3.0.0+incompatible h1:8IBJS6PWz3uTlMP3YBIR5f+KAldcGuOeFkFbUWfBgK4=
